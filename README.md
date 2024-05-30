@@ -10,7 +10,7 @@ com os usuários.
 ## Funcionalidades do projeto
 
 - converter valores inseridos pelo usuário de uma moeda para outra
-- dados obtidos em tempo real pelo consumo da API ExchangeRate-API
+- dados obtidos em tempo real pelo consumo da API [ExchangeRate-API](https://www.exchangerate-api.com)
 
 # Acesso ao Projeto
 
